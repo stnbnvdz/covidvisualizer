@@ -1,6 +1,6 @@
 # COVID-19
 
-![3D Corona Dashboard](screenshot.png)
+![3D Corona Dashboard](screenshot1.png)
 
 Data sources from
 [WHO](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports),
